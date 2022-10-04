@@ -1,3 +1,15 @@
+#Deployed link
+###https://github.com/chwadoow/phase-4-mini-code-challenge
+#endpoints
+### Get /restaurants
+### Get /restaurants/:id
+### Delete /restaurants/:id
+### Get /pizzas
+### Post /restaurant_pizzas
+
+
+
+
 # Cookies and Sessions Lab
 
 ## Learning Goals
